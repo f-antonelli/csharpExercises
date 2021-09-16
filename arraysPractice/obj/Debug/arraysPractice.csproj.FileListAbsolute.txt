@@ -1,0 +1,7 @@
+C:\Users\Simon\Desktop\ejerciciocsharp\arraysPractice\bin\Debug\arraysPractice.exe.config
+C:\Users\Simon\Desktop\ejerciciocsharp\arraysPractice\bin\Debug\arraysPractice.exe
+C:\Users\Simon\Desktop\ejerciciocsharp\arraysPractice\bin\Debug\arraysPractice.pdb
+C:\Users\Simon\Desktop\ejerciciocsharp\arraysPractice\obj\Debug\arraysPractice.csproj.AssemblyReference.cache
+C:\Users\Simon\Desktop\ejerciciocsharp\arraysPractice\obj\Debug\arraysPractice.csproj.CoreCompileInputs.cache
+C:\Users\Simon\Desktop\ejerciciocsharp\arraysPractice\obj\Debug\arraysPractice.exe
+C:\Users\Simon\Desktop\ejerciciocsharp\arraysPractice\obj\Debug\arraysPractice.pdb
