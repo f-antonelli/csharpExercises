@@ -1,0 +1,14 @@
+C:\Users\Simon\source\repos\avisosVarios\bin\Debug\netcoreapp3.1\avisosVarios.exe
+C:\Users\Simon\source\repos\avisosVarios\bin\Debug\netcoreapp3.1\avisosVarios.deps.json
+C:\Users\Simon\source\repos\avisosVarios\bin\Debug\netcoreapp3.1\avisosVarios.runtimeconfig.json
+C:\Users\Simon\source\repos\avisosVarios\bin\Debug\netcoreapp3.1\avisosVarios.runtimeconfig.dev.json
+C:\Users\Simon\source\repos\avisosVarios\bin\Debug\netcoreapp3.1\avisosVarios.dll
+C:\Users\Simon\source\repos\avisosVarios\bin\Debug\netcoreapp3.1\avisosVarios.pdb
+C:\Users\Simon\source\repos\avisosVarios\obj\Debug\netcoreapp3.1\avisosVarios.csproj.AssemblyReference.cache
+C:\Users\Simon\source\repos\avisosVarios\obj\Debug\netcoreapp3.1\avisosVarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simon\source\repos\avisosVarios\obj\Debug\netcoreapp3.1\avisosVarios.AssemblyInfoInputs.cache
+C:\Users\Simon\source\repos\avisosVarios\obj\Debug\netcoreapp3.1\avisosVarios.AssemblyInfo.cs
+C:\Users\Simon\source\repos\avisosVarios\obj\Debug\netcoreapp3.1\avisosVarios.csproj.CoreCompileInputs.cache
+C:\Users\Simon\source\repos\avisosVarios\obj\Debug\netcoreapp3.1\avisosVarios.dll
+C:\Users\Simon\source\repos\avisosVarios\obj\Debug\netcoreapp3.1\avisosVarios.pdb
+C:\Users\Simon\source\repos\avisosVarios\obj\Debug\netcoreapp3.1\avisosVarios.genruntimeconfig.cache
