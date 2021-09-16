@@ -1,0 +1,14 @@
+C:\Users\Simon\source\repos\ejVehiculos\bin\Debug\netcoreapp3.1\ejVehiculos.exe
+C:\Users\Simon\source\repos\ejVehiculos\bin\Debug\netcoreapp3.1\ejVehiculos.deps.json
+C:\Users\Simon\source\repos\ejVehiculos\bin\Debug\netcoreapp3.1\ejVehiculos.runtimeconfig.json
+C:\Users\Simon\source\repos\ejVehiculos\bin\Debug\netcoreapp3.1\ejVehiculos.runtimeconfig.dev.json
+C:\Users\Simon\source\repos\ejVehiculos\bin\Debug\netcoreapp3.1\ejVehiculos.dll
+C:\Users\Simon\source\repos\ejVehiculos\bin\Debug\netcoreapp3.1\ejVehiculos.pdb
+C:\Users\Simon\source\repos\ejVehiculos\obj\Debug\netcoreapp3.1\ejVehiculos.csproj.AssemblyReference.cache
+C:\Users\Simon\source\repos\ejVehiculos\obj\Debug\netcoreapp3.1\ejVehiculos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simon\source\repos\ejVehiculos\obj\Debug\netcoreapp3.1\ejVehiculos.AssemblyInfoInputs.cache
+C:\Users\Simon\source\repos\ejVehiculos\obj\Debug\netcoreapp3.1\ejVehiculos.AssemblyInfo.cs
+C:\Users\Simon\source\repos\ejVehiculos\obj\Debug\netcoreapp3.1\ejVehiculos.csproj.CoreCompileInputs.cache
+C:\Users\Simon\source\repos\ejVehiculos\obj\Debug\netcoreapp3.1\ejVehiculos.dll
+C:\Users\Simon\source\repos\ejVehiculos\obj\Debug\netcoreapp3.1\ejVehiculos.pdb
+C:\Users\Simon\source\repos\ejVehiculos\obj\Debug\netcoreapp3.1\ejVehiculos.genruntimeconfig.cache
