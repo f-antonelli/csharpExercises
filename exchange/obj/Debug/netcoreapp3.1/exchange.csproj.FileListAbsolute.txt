@@ -1,0 +1,14 @@
+C:\Users\Simon\Desktop\ejerciciocsharp\exchange\obj\Debug\netcoreapp3.1\exchange.csproj.AssemblyReference.cache
+C:\Users\Simon\Desktop\ejerciciocsharp\exchange\obj\Debug\netcoreapp3.1\exchange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simon\Desktop\ejerciciocsharp\exchange\obj\Debug\netcoreapp3.1\exchange.AssemblyInfoInputs.cache
+C:\Users\Simon\Desktop\ejerciciocsharp\exchange\obj\Debug\netcoreapp3.1\exchange.AssemblyInfo.cs
+C:\Users\Simon\Desktop\ejerciciocsharp\exchange\obj\Debug\netcoreapp3.1\exchange.csproj.CoreCompileInputs.cache
+C:\Users\Simon\Desktop\ejerciciocsharp\exchange\bin\Debug\netcoreapp3.1\exchange.exe
+C:\Users\Simon\Desktop\ejerciciocsharp\exchange\bin\Debug\netcoreapp3.1\exchange.deps.json
+C:\Users\Simon\Desktop\ejerciciocsharp\exchange\bin\Debug\netcoreapp3.1\exchange.runtimeconfig.json
+C:\Users\Simon\Desktop\ejerciciocsharp\exchange\bin\Debug\netcoreapp3.1\exchange.runtimeconfig.dev.json
+C:\Users\Simon\Desktop\ejerciciocsharp\exchange\bin\Debug\netcoreapp3.1\exchange.dll
+C:\Users\Simon\Desktop\ejerciciocsharp\exchange\bin\Debug\netcoreapp3.1\exchange.pdb
+C:\Users\Simon\Desktop\ejerciciocsharp\exchange\obj\Debug\netcoreapp3.1\exchange.dll
+C:\Users\Simon\Desktop\ejerciciocsharp\exchange\obj\Debug\netcoreapp3.1\exchange.pdb
+C:\Users\Simon\Desktop\ejerciciocsharp\exchange\obj\Debug\netcoreapp3.1\exchange.genruntimeconfig.cache

@@ -1,0 +1,7 @@
+C:\Users\Simon\Desktop\ejerciciocsharp\linkedList\bin\Debug\linkedList.exe.config
+C:\Users\Simon\Desktop\ejerciciocsharp\linkedList\bin\Debug\linkedList.exe
+C:\Users\Simon\Desktop\ejerciciocsharp\linkedList\bin\Debug\linkedList.pdb
+C:\Users\Simon\Desktop\ejerciciocsharp\linkedList\obj\Debug\linkedList.csproj.AssemblyReference.cache
+C:\Users\Simon\Desktop\ejerciciocsharp\linkedList\obj\Debug\linkedList.csproj.CoreCompileInputs.cache
+C:\Users\Simon\Desktop\ejerciciocsharp\linkedList\obj\Debug\linkedList.exe
+C:\Users\Simon\Desktop\ejerciciocsharp\linkedList\obj\Debug\linkedList.pdb
